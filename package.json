@@ -1,0 +1,26 @@
+{
+  "name": "teamwork-api",
+  "version": "1.0.0",
+  "description": "This is a social network API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oluwabammydu/Teamwork-API.git"
+  },
+  "keywords": [
+    "api",
+    "andela",
+    "devc",
+    "facebook",
+    "teamwork"
+  ],
+  "author": "Oluwabamise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oluwabammydu/Teamwork-API/issues"
+  },
+  "homepage": "https://github.com/Oluwabammydu/Teamwork-API#readme"
+}
